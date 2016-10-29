@@ -1,0 +1,2 @@
+# MaiDumpToolRU
+MaiDumpTool Russian
