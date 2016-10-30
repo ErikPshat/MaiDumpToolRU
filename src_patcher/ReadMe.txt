@@ -1,11 +1,11 @@
-MaiDumpTool Patcher for PS Vita
+ï»¿MaiDumpTool Patcher for PS Vita
 
-1. Ñêîïèðóéòå ïàïêó "MaiDumpTool" â êîðåíü äèñêà C:\
-   Ïðîåêò íàñòðîåí íà ðàáîòó èç ïàïêè C:\MaiDumpTool
+1. Ð¡ÐºÐ¾Ð¿Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ Ð¿Ð°Ð¿ÐºÑƒ "MaiDumpTool" Ð² ÐºÐ¾Ñ€ÐµÐ½ÑŒ Ð´Ð¸ÑÐºÐ° C:\
+   ÐŸÑ€Ð¾ÐµÐºÑ‚ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½ Ð½Ð° Ñ€Ð°Ð±Ð¾Ñ‚Ñƒ Ð¸Ð· Ð¿Ð°Ð¿ÐºÐ¸ C:\MaiDumpTool
 
-2. Â ïàïêå "Bat_To_Exe_Converter" çàïóñòèòå "Bat_To_Exe_Converter.exe" è íàæìèòå
-   êíîïêó "Compile". Â ïàïêå "MaiDumpTool" ñêîìïèëèðóåòñÿ "MakeVPK.exe".
+2. Ð’ Ð¿Ð°Ð¿ÐºÐµ "Bat_To_Exe_Converter" Ð·Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ðµ "Bat_To_Exe_Converter.exe" Ð¸ Ð½Ð°Ð¶Ð¼Ð¸Ñ‚Ðµ
+   ÐºÐ½Ð¾Ð¿ÐºÑƒ "Compile". Ð’ Ð¿Ð°Ð¿ÐºÐµ "MaiDumpTool" ÑÐºÐ¾Ð¼Ð¿Ð¸Ð»Ð¸Ñ€ÑƒÐµÑ‚ÑÑ "MakeVPK.exe".
    
-3. Â ïàïêå "A_dup2_v2.26.1" çàïóñòèòå "dup2.exe" è
-   îòêðîéòå ïðîåêò "MaiDumpTool for PS Vita.dUP2".
-   Íàæìèòå "Ïðîåêò->Ñîçäàòü ïàò÷".
+3. Ð’ Ð¿Ð°Ð¿ÐºÐµ "A_dup2_v2.26.1" Ð·Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ðµ "dup2.exe" Ð¸
+   Ð¾Ñ‚ÐºÑ€Ð¾Ð¹Ñ‚Ðµ Ð¿Ñ€Ð¾ÐµÐºÑ‚ "MaiDumpTool for PS Vita.dUP2".
+   ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ "ÐŸÑ€Ð¾ÐµÐºÑ‚->Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¿Ð°Ñ‚Ñ‡".
